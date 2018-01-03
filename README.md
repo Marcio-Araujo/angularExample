@@ -1,4 +1,6 @@
-# AngularExample
+## AngularExample
+
+Basic project to study the basics of angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.1.
 
